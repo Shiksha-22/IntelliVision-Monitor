@@ -34,7 +34,6 @@ python face_capture.py
 - Face images will be captured through the webcam.
 - Images will be saved in the `known_faces` folder.
 
----
 
 ### Step 2: Start Detection
 
@@ -52,7 +51,6 @@ The application will:
 - Analyze attentiveness
 - Display the person's name and attentiveness status
 
----
 
 ## Installation
 
@@ -75,9 +73,6 @@ pip install -r requirements.txt
 ```
 
 
-
----
-
 ## Run the Project
 
 ### Register Face
@@ -92,7 +87,6 @@ python face_capture.py
 python main.py
 ```
 
----
 
 ## Project Structure
 
